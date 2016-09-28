@@ -16,6 +16,6 @@ mini-complete-example/sbt/*.jar
 
 #Emacs
 *~
-
+.idea/
 #ignore the metastore
 metastore_db/*
